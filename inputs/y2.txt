@@ -1,0 +1,10 @@
+2 -8 Neglect this part
+6
+7
+0
+2
+-7 This part should not matter
+9
+5
+10
+-4 Not included

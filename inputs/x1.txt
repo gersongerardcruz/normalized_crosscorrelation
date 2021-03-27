@@ -1,0 +1,10 @@
+ -4 -3 This is a comment to be ignored
+4
+5
+6
+-8
+2
+3
+0 Ignore this comment
+-7
+10 Ignore me
